@@ -47,4 +47,3 @@ elif change == 0:
 	print "You didn't lose or make any money"
 elif change > 0:
 	print "Great job, you made $%s" % (change)
-# not completed
